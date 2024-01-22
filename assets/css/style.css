@@ -531,7 +531,7 @@ body.active { overflow: hidden; }
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-block: 145px 60px;
+  padding-block: 145px 50px;
   text-align: center;
 }
 
